@@ -1,12 +1,7 @@
-## Hi there 👋
+# Suneater Labs
 
-<!--
+<img width="939" height="287" alt="Pasted image 20251202093925" src="https://github.com/user-attachments/assets/12e25839-aa76-4816-8fb9-c73a7c6bcabd" />
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> “All that we are is the result of what we have thought.”
+> 
+> ~ Buddha
